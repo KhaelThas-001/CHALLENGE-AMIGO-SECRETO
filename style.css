@@ -92,6 +92,11 @@ body {
     justify-content: center;
 }
 
+.button-container1 {
+    width: 150px;
+    justify-content: center;
+}
+
 /* Estilos de entrada de texto */
 .input-title {
     flex: 1;
