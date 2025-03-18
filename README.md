@@ -28,6 +28,7 @@ Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar a
 ## 📥 Instalación y Uso :globe_with_meridians:
 
 1. Descarga o clona este repositorio:
-   ```bash https://github.com/KhaelThas-001/CHALLENGE-AMIGO-SECRETO```
+   ```bash 
+git clone https://github.com/KhaelThas-001/CHALLENGE-AMIGO-SECRETO
 2. Puedes jugar directamente con este enlace:
    ```https://khaelthas-001.github.io/CHALLENGE-AMIGO-SECRETO/```
