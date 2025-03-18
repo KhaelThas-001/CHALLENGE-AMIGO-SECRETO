@@ -9,11 +9,11 @@ Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar a
 
 ## 🚀 Funcionalidades
 
-✅ **Agregar amigos**: Se pueden ingresar nombres en un campo de texto y agregarlos a la lista.  
-✅ **Añadir con Enter**: También es posible agregar nombres presionando la tecla Enter.  
-✅ **Validación de texto**: Solo se permiten nombres (sin números ni caracteres especiales).  
-✅ **Sortear un amigo**: Se elige un amigo aleatoriamente de la lista.  
-✅ **Reiniciar el juego**: Se puede limpiar la lista y empezar de nuevo.  
+:white_check_mark: **Agregar amigos**: Se pueden ingresar nombres en un campo de texto y agregarlos a la lista.  
+:white_check_mark: **Añadir con Enter**: También es posible agregar nombres presionando la tecla Enter.  
+:white_check_mark: **Validación de texto**: Solo se permiten nombres (sin números ni caracteres especiales).  
+:white_check_mark: **Sortear un amigo**: Se elige un amigo aleatoriamente de la lista.  
+:white_check_mark: **Reiniciar el juego**: Se puede limpiar la lista y empezar de nuevo.  
 
 ## :art: Tecnologías utilizadas
 
