@@ -23,7 +23,7 @@ Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar a
 
 ## 📷 Captura de Pantalla
 
-<img src=
+<img src="assets/the_game.png">
 
 ## 📥 Instalación y Uso
 
