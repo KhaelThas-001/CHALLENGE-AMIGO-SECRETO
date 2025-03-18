@@ -25,7 +25,7 @@ Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar a
 
 <img src="assets/the_game.png">
 
-## 📥 Instalación y Uso
+## 📥 Instalación y Uso :globe_with_meridians:
 
 1. Descarga o clona este repositorio:
    ```bash
