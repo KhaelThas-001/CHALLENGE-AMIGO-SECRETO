@@ -1,9 +1,9 @@
-<h1>CHALLENGE AMIGO SECRETO 🎁</h1>
+<h1>CHALLENGE AMIGO SECRETO :gift:</h1>
 <p align="left"> 
 <img src=https://img.shields.io/badge/Status-Finalized-Green> 
 </p>
 
-## 📌 Descripción
+## :pushpin: Descripción
 
 Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar aleatoriamente a uno de ellos como el "Amigo Secreto". Además, incluye funciones para eliminar la lista y mejorar la experiencia del usuario.
 
@@ -15,13 +15,13 @@ Este proyecto permite a los usuarios agregar nombres a una lista y seleccionar a
 ✅ **Sortear un amigo**: Se elige un amigo aleatoriamente de la lista.  
 ✅ **Reiniciar el juego**: Se puede limpiar la lista y empezar de nuevo.  
 
-## 🎨 Tecnologías utilizadas
+## :art: Tecnologías utilizadas
 
 - **HTML5**: Para la estructura de la página.  
 - **CSS3**: Para el diseño y estilos.  
 - **JavaScript (ES6)**: Para la lógica del sorteo y manipulación del DOM.  
 
-## 📷 Captura de Pantalla
+## :camera: Captura de Pantalla
 
 <img src="assets/the_game.png">
 
